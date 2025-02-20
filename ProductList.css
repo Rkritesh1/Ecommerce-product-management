@@ -1,0 +1,4 @@
+.container { text-align: center; padding: 20px; }
+.filters input, .filters select { margin: 5px; padding: 10px; }
+.product-grid { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+.product-card { border: 1px solid #ddd; padding: 20px; width: 250px; text-align: center; }
